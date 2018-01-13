@@ -1,0 +1,70 @@
+.button hero-cta {
+	min-height: 40px;
+}
+
+
+.content {
+	min-width: 320px;
+	overflow-x: hidden;
+}
+
+.card-text-title {
+	display: inline-block;
+    background-color: #ffdd2d;
+    font-weight: 800;
+    font-size: 11px;
+    font-family: pfhighway,helvetica,arial,sans-serif;
+    line-height: 1;
+    color: #3e4758;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    padding: 6px 7px 6px 7px;
+    margin: 10px 0 7px;
+    text-align: center;
+}
+
+article {
+    padding: 24px;
+}
+
+.home-row .card {
+	min-width: calc(100% - 32px);
+	align-items: center;
+    justify-content: center;
+}
+
+
+@media (min-width: 780px) {
+	.hero-logo__angular {
+		min-width: 400px;
+	}
+}
+
+@media screen and (max-width: 680px) {
+
+	.hero-logo__angular {
+		min-width: auto;
+	}
+
+	div[layout=row] {
+		display: block;
+	}
+
+	.home-row .promo-img-container, 
+	.home-row .text-container {
+	    max-width: 100%;
+	    text-align: center;
+	}
+
+	.home-row .text-block {
+		padding-right: 0;
+	}
+
+}
+
+@media (max-width: 480px) {
+
+	.card-text-subtitle {
+		display: none;
+	}
+}
