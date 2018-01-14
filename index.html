@@ -222,7 +222,10 @@
           <img src="https://avatars2.githubusercontent.com/u/29404381?s=200&amp;v=4" height="70px">
           <div class="card-text-container">
             <span class="card-text-title">Angular Meetup</span>
-            <p class="card-text-subtitle">AnguarMoscow<br>©2017-2018</p>
+            <p class="card-text-subtitle">
+                AnguarMoscow <br>
+                ©2017-<span id="ngmoscow-full-year"></span>
+            </p>
           </div>
     </div></a>
         </div>
@@ -273,5 +276,10 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/47294688" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+    
+<script>
+    document.getElementById('ngmoscow-full-year').appendChild(document.createTextNode(new Date().getFullYear()));
+</script>
+
     
 </body></html>
