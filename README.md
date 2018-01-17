@@ -1,4 +1,4 @@
-## Angular RU [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
+## Angular-RU [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
 > Angular - это платформа для разработки мобильных и десктопных веб-приложений.
 
