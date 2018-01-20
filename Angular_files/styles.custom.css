@@ -63,8 +63,91 @@ article {
 }
 
 @media (max-width: 480px) {
-
 	.card-text-subtitle {
 		display: none;
 	}
+}
+
+.home-row .card {
+	box-shadow: 0 2px 2px rgba(10,16,20,.24), 0 0 2px rgba(10,16,20,.12);
+}
+
+.home-row .card:hover {
+	box-shadow: 0 4px 4px rgba(10,16,20,.24), 0 0 4px rgba(10,16,20,.12);
+}
+
+.promo-img-container--full {
+	max-width: 100% !important;
+    width: 100%;
+}
+
+.home-row .card.telegram  .card-text-title {
+	white-space: nowrap;
+	display: block;
+}
+
+.home-row .card.telegram  .card-text-title:hover {
+	box-shadow: 0 4px 4px rgba(10,16,20,.24), 0 0 4px rgba(10,16,20,.12);
+}
+
+.home-row .card.telegram {
+	align-items: flex-start;
+}
+
+.card.telegram .fa {
+	padding-right: 5px;
+}
+
+.card.telegram .card-text-title {
+	border: 1px solid rgba(10,16,20,.12);
+}
+
+.chat-angular-ru {
+	background: #d6192b;
+    color: #fff;    
+}
+
+.chat-angular-ru-universal {
+	background: #14b102;
+    color: #fff;    
+}
+
+.chat-angular-nest {
+	background: #e42449;
+    color: #fff;    
+}
+
+.chat-angular-ngmoscow {
+	background: #f70059;
+    color: #fff;    
+}
+
+.chat-angular-ionic {
+	background: #498af3;
+    color: #fff;    
+}
+
+@media (max-width: 920px) {
+
+	.home-row .card.telegram img { 
+		margin: 10px auto 25px auto;
+		display: block;
+	}
+
+	.home-row .card.telegram {
+		display: block
+	}
+
+	.home-row .card.telegram .card-text-title {
+	    white-space: nowrap;
+	    width: 145px;
+	    display: block;
+	    margin: 10px auto;
+	}
+
+	.home-row .card.telegram .card-text-container {
+	    margin: 0 auto;
+	    width: 200px;
+	}
+	
 }
