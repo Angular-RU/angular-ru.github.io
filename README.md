@@ -7,3 +7,11 @@
 
 ##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
+
+## Angular RU chats
+
+- [Telegram chat for Angular-RU (общаемся на темы Angular и его экосистемы)](https://t.me/angular_ru) 
+- [Telegram chat for Angular-universal-ru (общаемся на темы серверного рендеринга и Angular Universal)](https://t.me/angular_universal_ru)
+- [Telegram chat for ngMoscow (вся Angular движуха Москвы и не только)](https://t.me/ngMoscow)
+- [Telegram chat for Nest RU (общаемся на темы Nest и Angular)](https://t.me/nest_ru)
+- [Telegram chat for Ionic RU (общаемся на темы Ionic и Angular)](https://t.me/pro_ionic)
