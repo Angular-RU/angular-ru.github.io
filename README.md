@@ -15,3 +15,4 @@
 - [Telegram chat for ngMoscow (вся Angular движуха Москвы и не только)](https://t.me/ngMoscow)
 - [Telegram chat for Nest RU (общаемся на темы Nest и Angular)](https://t.me/nest_ru)
 - [Telegram chat for Ionic RU (общаемся на темы Ionic и Angular)](https://t.me/pro_ionic)
+- [Telegram chat for NativeScript RU (общаемся на темы NativeScript и Angular)](https://t.me/nativescript_ru)
