@@ -127,6 +127,15 @@ article {
     color: #fff;    
 }
 
+.chat-angular-nativescript {
+	background: #3e61f8;
+    color: #fff;    
+}
+
+.fa.fa-youtube-play {
+	color: #da2723;
+}
+
 @media (max-width: 920px) {
 
 	.home-row .card.telegram img { 
@@ -150,4 +159,34 @@ article {
 	    width: 200px;
 	}
 	
+}
+
+
+.text-middle-title {
+	margin-bottom: 20px;
+    text-align: center;
+}
+
+.text-middle-title .fa {
+	margin-right: 5px;
+}
+
+.home-row img.card-scope {
+	width: 80px;
+    height: 80px;
+    min-width: 80px;
+    min-height: 80px;
+    max-width: 100% !important;
+    margin: 10px auto;
+    flex: none;
+    border-radius: 50%;
+    background-color: transparent;
+    overflow: hidden;
+    display: block;
+    border: 1px solid #f2d8d8;
+}
+
+.home-row img.card-default {
+	border: none;
+    border-radius: initial;
 }
