@@ -190,3 +190,14 @@ article {
 	border: none;
     border-radius: initial;
 }
+
+.card--align {
+	text-align: center;
+	font-size: 12px;
+	margin-top: 15px;
+}
+
+.card--link {
+	font-size: 12px;
+	border-bottom: 1px dotted;
+}
