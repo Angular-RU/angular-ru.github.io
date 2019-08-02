@@ -12,7 +12,21 @@
 
 - [Telegram chat for Angular-RU (общаемся на темы Angular и его экосистемы)](https://t.me/angular_ru) 
 - [Telegram chat for Angular-universal-ru (общаемся на темы серверного рендеринга и Angular Universal)](https://t.me/angular_universal_ru)
-- [Telegram chat for ngMoscow (вся Angular движуха Москвы и не только)](https://t.me/ngMoscow)
 - [Telegram chat for Nest RU (общаемся на темы Nest и Angular)](https://t.me/nest_ru)
 - [Telegram chat for Ionic RU (общаемся на темы Ionic и Angular)](https://t.me/ionic_ru)
 - [Telegram chat for NativeScript RU (общаемся на темы NativeScript и Angular)](https://t.me/nativescript_ru)
+
+
+### Local chats
+
+- https://t.me/angular_msk
+- https://t.me/angular_piter
+- https://t.me/ngTashkent
+- https://t.me/ng_kazan
+- https://t.me/NgRostov
+- https://t.me/angularkyiv
+- https://t.me/ngkharkiv
+- https://t.me/AngularPL
+- https://t.me/angularNSK
+- https://t.me/angular_ekb
+- https://t.me/angular_ufa
